@@ -1,0 +1,8 @@
+1. terraform ile de cluster kurulabilir. main.tf. terraform dosyasında. sadece pem ve path.i değişecek.
+
+2. commands
+sudo yum update -y
+
+sudo yum install -y python3 
+
+pip3 install --user ansible
